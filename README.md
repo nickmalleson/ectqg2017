@@ -21,4 +21,8 @@ index.html -> only page that used _default_ directly. It has its own slightly di
 See this page for information about how rows and colums are used:
 https://github.com/ajlkn/skel/blob/master/docs/skel-layout.md
 
+## Pictures
 
+Main picture from unsplash:
+
+<img src="https://hd.unsplash.com/photo-1459620842579-b4421440f66b"/>
