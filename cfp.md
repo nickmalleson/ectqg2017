@@ -1,6 +1,6 @@
 ---
 layout: main
-title: Call for Papers and Sessions
+title: Call for Papers, Workshops, and Symposiums
 tagline: European Colloquium on Theoretical and Quantitative Geography
 ---
  
