@@ -1,6 +1,24 @@
-# ECTQG2017
+# ECTQG 2017 website README
 
-Site for the  European Colloquium on Theoretical and Quantitative Geography 2017 conference. See:
-[http://www.geog.leeds.ac.uk/ectqg17/](http://www.geog.leeds.ac.uk/ectqg17/).
+Website based on template: _Horizons_ by TEMPLATED
 
-At the moment this repository just holds the website in 'gh-pages' branch.
+## Website structure
+
+                    default.html   - the  _includes page that everything inherits
+                      |     |
+                      |     |
+         post.html  <--      --> main - the other _includes pages that are actually used in content
+
+Note: to change the site header, you need to edit main.html, except for the index.html page which
+defines its own header.
+
+## Pages
+
+index.html -> only page that used _default_ directly. It has its own slightly different style
+
+## Other info
+
+See this page for information about how rows and colums are used:
+https://github.com/ajlkn/skel/blob/master/docs/skel-layout.md
+
+

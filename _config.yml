@@ -1,0 +1,22 @@
+# Site settings
+title: ECTQG 2017
+tagline: "ECTQG Conference 2017, York, UK, 7-11 September 2017"
+keywords: GIS, geography, conference
+description: > # this means to ignore newlines until "baseurl:"
+    "ECTQG Conference 2017, York, UK, 7-11 September 2017"
+
+#url:              http://hyde.getpoole.com
+#baseurl:          /leeds-quant-crim/
+baseurl:          ""
+
+author :
+  name : Nick Malleson
+  github : nickmalleson
+  twitter : nickmalleson
+
+
+twitter_username: nickmalleson
+github_username:  nickmalleson
+email: n.s.malleson@leeds.ac.uk
+
+exclude: [.scss, README.md, node_modules, gruntfile.js, package.json]

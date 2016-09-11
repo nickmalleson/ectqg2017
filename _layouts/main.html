@@ -1,0 +1,32 @@
+---
+layout: default
+---
+<!-- Header -->
+<div id="header">
+    <div class="container">
+        <!-- Logo -->
+		<!--<h1><a href="#" id="logo">{{ page.title }}</a></h1>-->
+        <h1><a href="{{ site.baseurl }}/home.html" id="logo">ECTQG 2017</a></h1>
+        
+        {% include nav.html %}
+
+    </div>
+</div>
+
+<!-- Main -->
+<div id="main" class="wrapper style1">
+    <div class="container">
+        <section>
+            <header class="major">
+                <h2>{{ page.title }}</h2>
+                {% if page.tagline %}
+                <span class="byline">{{ page.tagline }}</span>
+                {% endif %}
+            </header>
+
+            {{content}}
+
+
+        </section>
+    </div>
+</div>

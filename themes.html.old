@@ -1,0 +1,29 @@
+---
+layout: main
+title: Conference Themes
+tagline: 
+---
+ 
+<!-- Main -->
+<div id="main" class="wrapper style1">
+    <section class="container">
+       <div class="row">
+            <!-- Content -->
+            <div class="12u">
+                <span>The committee welcome contrinbutions on all aspects of quantitative and theoretical geography, and are particularly interested in:</span>
+                <br/>
+                <br/>
+                <ul class="style">
+                    <li>Population Modelling</li>
+                    <li>Lifestyle and Health</li>
+                    <li>Big Data</li>
+                    <li>Demographics</li>
+                    <li>Geographical modelling</li>
+                    <li>Social Simulation</li>
+                    <li>Spatial Analysis for Public and Business Policy</li>
+                    
+                </ul>
+            </div>
+        </div>
+    </section>
+</div>

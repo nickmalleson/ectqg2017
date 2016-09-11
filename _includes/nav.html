@@ -1,0 +1,42 @@
+<!-- Nav -->
+	<nav id="nav">
+		<ul>
+			{% assign current = page.url | downcase | split: '/' %}
+			<li {% if current[1] == 'index.html' %}class='current'{% endif %}><a href="{{ site.baseurl }}/home.html">Home</a></li>
+            <!--
+			<li>
+				<a href="">Dropdown</a>
+				<ul>
+					<li><a href="#">Lorem ipsum dolor</a></li>
+					<li><a href="#">Magna phasellus</a></li>
+					<li><a href="#">Etiam dolore nisl</a></li>
+					<li>
+						<a href="">Phasellus consequat</a>
+						<ul>
+							<li><a href="#">Lorem ipsum dolor</a></li>
+							<li><a href="#">Phasellus consequat</a></li>
+							<li><a href="#">Magna phasellus</a></li>
+							<li><a href="#">Etiam dolore nisl</a></li>
+							<li><a href="#">Veroeros feugiat</a></li>
+						</ul>
+					</li>
+					<li><a href="#">Veroeros feugiat</a></li>
+				</ul>
+			</li>
+            -->
+            
+            <!--
+			<li {% if current[1] == 'blog' %}class='current'{% endif %}><a href="{{ site.baseurl }}/blog">Blog</a></li>
+            -->
+            
+			<li {% if current[1] == 'dates.html' %}class='current'{% endif %}><a href="{{ site.baseurl }}/dates.html">Key Dates</a></li>
+            
+			<li {% if current[1] == 'cfp.html' %}class='current'{% endif %}><a href="{{ site.baseurl }}/cfp.html">Call for Papers</a></li>
+            
+			<li {% if current[1] == 'registration.html' %}class='current'{% endif %}><a href="{{ site.baseurl }}/registration.html">Registration</a></li>
+            
+			<!--<li {% if current[1] == 'organisers.html' %}class='current'{% endif %}><a href="{{ site.baseurl }}/organisers.html">Organising Committee</a></li>-->
+            
+            
+		</ul>
+	</nav>
