@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
     "ECTQG Conference 2017, York, UK, 7-11 September 2017"
 
 #url:              http://hyde.getpoole.com
-baseurl:          "/ectqg2017/"
+baseurl:          "ectqg2017/"
 
 author :
   name : Nick Malleson
