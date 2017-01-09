@@ -5,7 +5,8 @@ keywords: GIS, geography, conference
 description: > # this means to ignore newlines until "baseurl:"
     "ECTQG Conference 2017, York, UK, 7-11 September 2017"
 
-baseurl:          "http://www.geog.leeds.ac.uk/ectqg17/"
+url:      "http://www.geog.leeds.ac.uk/"
+baseurl:  "/ectqg17"
 
 author :
   name : Nick Malleson
