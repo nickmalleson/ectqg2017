@@ -20,7 +20,7 @@ Alison Heppenstall is a Professor of Geocomputation at the School of Geography, 
 
 Anne Vernez Moudon is Professor of Architecture, Landscape Architecture, and Urban Design and Planning; Adjunct Professor of Epidemiology and Civil and Environmental Engineering at the University of Washington, Seattle, where she also directs the Urban Form Lab (UFL). 
 
-Dr. Moudon’s published works include _Built for Change: Neighborhood Architecture in San Francisco_ (MIT Press 1986), _Public Streets for Public Use_ (Columbia University Press 1991), and _Monitoring Land Supply with Geographic Information Systems_ (with M. Hubner, John Wiley & Sons, 2000). She has also published several monographs, such as _Master-Planned Communities: Shaping Exurbs in the 1990_ (with B. Wiseman and K.J. Kim, distributed by the APA Bookstore, 1992) and _Urban Design: Reshaping Our Cities_ (with W. Attoe, University of Washington, College of Architecture and Urban Planning, 1995).
+Prof. Moudon’s published works include _Built for Change: Neighborhood Architecture in San Francisco_ (MIT Press 1986), _Public Streets for Public Use_ (Columbia University Press 1991), and _Monitoring Land Supply with Geographic Information Systems_ (with M. Hubner, John Wiley & Sons, 2000). She has also published several monographs, such as _Master-Planned Communities: Shaping Exurbs in the 1990_ (with B. Wiseman and K.J. Kim, distributed by the APA Bookstore, 1992) and _Urban Design: Reshaping Our Cities_ (with W. Attoe, University of Washington, College of Architecture and Urban Planning, 1995).
 
 ### [Chris Brunsdon](https://www.maynoothuniversity.ie/people/chris-brunsdon)
 

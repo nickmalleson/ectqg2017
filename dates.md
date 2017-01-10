@@ -10,4 +10,4 @@ tagline: European Colloquium on Theoretical and Quantitative Geography
   - 9th June - Notification of acceptance.
   - 9th June - [Registration](./registration.html) opens.
   - 28th July - Deadline for registration.
-  - 4-7 September - Conference
+  - 7-11 Sept - Conference
