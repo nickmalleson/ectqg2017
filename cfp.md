@@ -18,6 +18,10 @@ Submission is via EasyChair: [https://easychair.org/conferences/?conf=ectqg17](h
 
 This year the conference will be organising a plenary session in honour of the work of Professor Sir Alan Wilson. If you are interested in contributing to the plenary, please contact [Mark Birkin](https://www.geog.leeds.ac.uk/people/m.birkin).
 
+## Registration and Accommodation
+
+Registration is now open! Please see the [registration and accommodation]({{site.baseurl}}/registration.html) page for more information.
+
 <!--
 ## Call for Organised Sessions
 
