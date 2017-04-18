@@ -32,4 +32,4 @@ His most recent books include  _Geocomputation: A Practical Primer_ (with Alex S
 
 ## Conference Programme
 
- _The programme will published after registration opens in June 2017. Please see the [key dates]({{site.baseurl}}/dates.html) for more information..._
+ _The programme will published after registration closes in July 2017. Please see the [key dates]({{site.baseurl}}/dates.html) for more information..._
