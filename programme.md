@@ -6,7 +6,10 @@ tagline: European Colloquium on Theoretical and Quantitative Geography
 
 ## Conference Programme
 
-_The programme will published after registration closes in July 2017. Please see the [key dates]({{site.baseurl}}/dates.html) for more information..._
+<img style="float:right; width:65%; margin-left:20px;" src="{{ site.baseurl }}/assets/images/programme.png" alt="Conference Programme" />
+
+The draft programme is available on the right. Please note that the full programme will be published after registration closes in July 2017. Please see the [key dates]({{site.baseurl}}/dates.html) for more information...
+
 
 
 ## Keynote Presentations
