@@ -4,7 +4,7 @@ title: Programme and Keynotes
 tagline: European Colloquium on Theoretical and Quantitative Geography
 ---
 
-## Conference Programme
+## Draft Conference Programme
 
 <img style="float:right; width:65%; margin-left:20px;" src="{{ site.baseurl }}/assets/images/programme.png" alt="Conference Programme" />
 
