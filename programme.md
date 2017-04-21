@@ -4,9 +4,14 @@ title: Programme and Keynotes
 tagline: European Colloquium on Theoretical and Quantitative Geography
 ---
 
+## Conference Programme
+
+_The programme will published after registration closes in July 2017. Please see the [key dates]({{site.baseurl}}/dates.html) for more information..._
+
+
 ## Keynote Presentations
 
-We are pleased to announce four keynote presenters who will talk at the ECTQG 2017:
+We are pleased to announce four keynote presenters who will talk at the ECTQG 2017
 
 ### [Sir Alan Wilson](https://iris.ucl.ac.uk/iris/browse/profile?upi=AGWIL25)
 
@@ -30,6 +35,3 @@ Chris Brunsdon is a Professor of Geocomputation and Director of the National Cen
 His most recent books include  _Geocomputation: A Practical Primer_ (with Alex Singleton, 2015)  and _An Introduction to R for Spatial Analysis and Mapping_ (with Alexis Comber, 2015). 
 
 
-## Conference Programme
-
- _The programme will published after registration closes in July 2017. Please see the [key dates]({{site.baseurl}}/dates.html) for more information..._
