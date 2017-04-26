@@ -15,10 +15,10 @@ The earl-bird rate (which is valid until 1st July) is £330.00. Thereafter the f
 ## Accommodation
 
 We have a special rate on hotel rooms at the conference venue: the [Radisson Park Inn](https://www.parkinn.co.uk/hotel-york). 
+ 
+To book your accommodation for ECTQG 2017, at the [Park Inn](https://www.parkinn.co.uk/hotel-york), please contact the hotel quoting "_University of Leeds_". You can contact the hotel by phone: 
 
-To book your accommodation for ECTQG 2017, at the [Park Inn](https://www.parkinn.co.uk/hotel-york), please contact the hotel quoting "_University of Leeds_". You can contact the hotel: by phone: 
-
-**0044 (0)1904 459 900** 
+**0044 (0)1904 459 900** (between 9am and 5pm GMT)
 
 or by email: 
 
