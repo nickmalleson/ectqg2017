@@ -10,7 +10,18 @@ To register for attendance, please visit:
 
 [http://store.leeds.ac.uk/conferences-and-events/environment/geography/ectqg-2017-the-european-colloquium-on-theoretical-and-quantitative](http://store.leeds.ac.uk/conferences-and-events/environment/geography/ectqg-2017-the-european-colloquium-on-theoretical-and-quantitative)
 
-The earl-bird rate (which is valid until 1st July) is £330.00. Thereafter the fee will be £400.
+## Prices
+
+The conference registration fee includes refreshments and lunches throughout the conference; dinner at [Park Inn](https://www.parkinn.co.uk/hotel-york) on Thursday, Friday and Sunday; the conference dinner at the [National Railway Museum](http://www.nrm.org.uk/) on Saturday 9th; and a guided walking tour in York.
+
+Early-bird registration (until 1st July 2017): £330.00
+
+Full registration after 1st July 2017: £400
+
+Single Day Registration: £155.00
+
+Student Registration (with valid student card): £205.00
+
 
 ## Accommodation
 
