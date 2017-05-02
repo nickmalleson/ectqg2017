@@ -12,7 +12,9 @@ The deadline for abstracts is **31st May**. Please see the [key dates]({{site.ba
 
 ### Abstract submission:
 
-Submission is via EasyChair: [https://easychair.org/conferences/?conf=ectqg17](https://easychair.org/conferences/?conf=ectqg17)
+Submission is via EasyChair: [https://easychair.org/conferences/?conf=ectqg17](https://easychair.org/conferences/?conf=ectqg17). 
+
+The maximum length for abstracts is **500 words**.
 
 ### Plenary Session
 
