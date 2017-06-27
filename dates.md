@@ -8,7 +8,6 @@ tagline: European Colloquium on Theoretical and Quantitative Geography
   - 6th March - [Call for abstracts](./cfp.html) (500 words) and [registration](./registration.html) opens.
   - 31st May - Abstract deadline.
   - 9th June - Notification of acceptance.
-  - 24th June - Deadline for discount rooms at the [conference hotel](https://www.parkinn.co.uk/hotel-york).
   - 1st July - [Early-bird discount](./registration.html) ends
   - 17th August - Deadline for registration.
   - 7-11 Sept - Conference
