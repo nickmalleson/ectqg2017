@@ -6,13 +6,14 @@ tagline: European Colloquium on Theoretical and Quantitative Geography
 
 ## Draft Conference Programme
 
-<img style="float:right; width:65%; margin-left:20px;" src="{{ site.baseurl }}/assets/images/programme.png" alt="Conference Programme" />
+The draft programme overview is available below. Please note that the specific timings of each session will probably change slightly to accommodate the availability of presenters. The full programme with authors and abstracts will be publised in the coming weeks.
 
-The draft programme is available on the right. Please note that the full programme will be published after registration closes in July 2017. Please see the [key dates]({{site.baseurl}}/dates.html) for more information...
+For details about our keynote speakers, click [here](#keynotes). 
+
+<img style="margin-left:20px; width:100%" src="{{ site.baseurl }}/assets/images/programme2.png" alt="Conference Programme" />
 
 
-
-## Keynote Presentations
+## <a name="keynotes"></a>Keynote Presentations
 
 We are pleased to announce four keynote presenters who will talk at the ECTQG 2017
 

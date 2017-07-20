@@ -14,9 +14,9 @@ To register for attendance, please visit:
 
 The conference registration fee includes refreshments and lunches throughout the conference; dinner at [Park Inn](https://www.parkinn.co.uk/hotel-york) on Thursday, Friday and Sunday; the conference dinner at the [National Railway Museum](http://www.nrm.org.uk/) on Saturday 9th; and a guided walking tour in York.
 
-Early-bird registration (until 1st July 2017): £330.00
+Early-bird registration (until 24th July 2017): £330.00
 
-Full registration after 1st July 2017: £400
+Full registration after 24th July 2017: £400
 
 Single Day Registration: £155.00
 
