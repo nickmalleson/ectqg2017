@@ -4,11 +4,9 @@ title: Programme and Keynotes
 tagline: European Colloquium on Theoretical and Quantitative Geography
 ---
 
-## Draft Conference Programme
+## Conference Programme
 
-The draft programme overview is available below. Please note that the specific timings of each session will probably change slightly to accommodate the availability of presenters. 
-
-The full programme with authors and abstracts is available for download as a pdf [here]({{ site.baseurl }}/programme/ECTQG_York_2017_Programme_V1.pdf)
+The **full conference handbook**, including session abstracts, is available [here]({{ site.baseurl }}/programme/Handbook-ECTQG-final.pdf)
 
 <!-- For details about our keynote speakers, click [here](#keynotes).  -->
 
